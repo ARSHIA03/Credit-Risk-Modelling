@@ -1,4 +1,4 @@
-# Credit-Risk-Modelling
+# Credit Risk Modelling
 
 We are building a machine learning model to predict whether a person will default on their loan within the next two years.
 
